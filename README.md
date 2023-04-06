@@ -2,13 +2,7 @@
 
 ### The Cerberus Project consists of an organization service and catalog of links to help the user to access its content in a practical way.
 
-  
-## BackEnd Repository:  
-https://github.com/gomeshud/cerberus-back  
 
-## FrontEnd Repository: 
-https://github.com/cerberus-project/cerberus-front
-  
 ## Team:
 - [Ytalo Gabriel](https://github.com/ytalogabriel)
 - [Hudson Gomes](https://github.com/gomeshud)
@@ -20,4 +14,11 @@ https://github.com/cerberus-project/cerberus-front
 ## Advisor:
 - [Fernando Kenji](https://github.com/fkenjikamei)
   
+
+  
+## BackEnd Repository:  
+https://github.com/gomeshud/cerberus-back  
+
+## FrontEnd Repository: 
+https://github.com/cerberus-project/cerberus-front
   
