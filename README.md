@@ -2,6 +2,8 @@
 
 ### The Cerberus Project consists of an organization service and catalog of links to help the user to access its content in a practical way.
 
+## CERBERUS
+https://cerberus-front.vercel.app/home
 
 ## Team:
 - [Ytalo Gabriel](https://github.com/ytalogabriel)
@@ -14,8 +16,6 @@
 ## Advisor:
 - [Fernando Kenji](https://github.com/fkenjikamei)
   
-## CERBERUS
-https://cerberus-front.vercel.app/home
   
 ## BackEnd Repository:  
 https://github.com/gomeshud/cerberus-back  
