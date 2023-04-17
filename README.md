@@ -3,7 +3,7 @@
 ### The Cerberus Project consists of an organization service and catalog of links to help the user to access its content in a practical way.
 
 ## CERBERUS
-https://cerberus-front.vercel.app/home
+https://cerberus-front.vercel.app
 
 ## Team:
 - [Ytalo Gabriel](https://github.com/ytalogabriel)
